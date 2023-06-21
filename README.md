@@ -1,7 +1,4 @@
-### Hi there 👋
 
-<!--
-**TaingChandara/TaingChandara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![logo](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
 <h1 align="center">Hi 👋, I'm Dara Tang</h1>
